@@ -1,4 +1,4 @@
-# Loki on Kali WSL2
+# Install Loki IOC Scanner on Kali WSL2
 
 ## Introduction
 

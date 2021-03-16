@@ -73,7 +73,7 @@ And finally we can run Loky.
 sudo python3 loki.py -h
 ```
 
-![image-20210316234334156](C:\Users\mdemo\AppData\Roaming\Typora\typora-user-images\image-20210316234334156.png)
+![image-20210316234334156](https://raw.githubusercontent.com/mircodemo/Kali-Linux-WSL2-tips-and-triks/main/img/image-20210316234334156.png)
 
 ## Run a test
 
@@ -85,4 +85,4 @@ sudo python3 loki.py -p test --onlyrelevant --nolog
 
 If all working properly you should get Loki presentation page and some alert:
 
-![image-20210316234828165](C:\Users\mdemo\AppData\Roaming\Typora\typora-user-images\image-20210316234828165.png)
+![img/image-20210317005803307](https://raw.githubusercontent.com/mircodemo/Kali-Linux-WSL2-tips-and-triks/main/docs/img/image-20210317005803307.png)

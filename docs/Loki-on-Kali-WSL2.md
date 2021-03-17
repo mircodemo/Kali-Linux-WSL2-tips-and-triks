@@ -73,7 +73,7 @@ And finally we can run Loky.
 sudo python3 loki.py -h
 ```
 
-![image-20210316234334156](https://raw.githubusercontent.com/mircodemo/Kali-Linux-WSL2-tips-and-triks/main/img/image-20210316234334156.png)
+![img/image-20210316234334156](https://raw.githubusercontent.com/mircodemo/Kali-Linux-WSL2-tips-and-triks/main/img/image-20210316234334156.png)
 
 ## Run a test
 

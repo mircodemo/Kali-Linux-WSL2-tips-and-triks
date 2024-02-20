@@ -48,8 +48,6 @@ Loki need the presence of the symlink /ect/mtab so we need to create it:
 sudo ln -s /proc/mounts /etc/mtab
 ```
 
-
-
 ## Install
 
 Download the latest version from the [release](https://github.com/Neo23x0/Loki/releases) page and extract it.

@@ -35,12 +35,9 @@ Description: Kali Linux default headless system
 └─$ sudo apt install kali-linux-headless
 ```
 
-
-
 ```bash
 sudo apt install -y zsh zsh-syntax-highlighting zsh-autosuggestions
 cp /etc/skel/.zshrc ~/
 ```
 
 sudo apt install neofetch cowsay lolcat
-
